@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "trm_56a9123fe580f",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/stim-selective-stop-signal",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "stim-selective-stop-signal",
+    "name": "Stim-Selective-Stop-Signal",
+    "reference": ["http://psycnet.apa.org/journals/xge/143/1/455/"],
+    "template": "jspsych",
+    "time": 22
+}
